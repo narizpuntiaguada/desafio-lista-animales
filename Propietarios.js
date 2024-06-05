@@ -35,8 +35,8 @@ set telefono(nuevoTelefono){
     return this.#telefono;
 }
 set mascota(nuevaMascota){
-    this.#mascota = nuevaMascota;
-    return this.#mascota;
+    this.mascota = nuevaMascota;
+    return this.mascota;
 
 
 }
